@@ -1,0 +1,5 @@
+{
+  "name": "@monorepo-sample/hello-tsc",
+  "version": "0.0.1",
+  "type": "commonjs"
+}
