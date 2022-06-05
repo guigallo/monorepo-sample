@@ -2,6 +2,7 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
-    "hello-tsc": "packages/hello-tsc"
+    "react-app": "packages/react-app",
+    "react-app-e2e": "packages/react-app-e2e"
   }
 }
