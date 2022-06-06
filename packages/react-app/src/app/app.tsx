@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import NxWelcome from './nx-welcome';
+import { Button } from '@monorepo-sample/ui';
 
 import { Route, Routes, Link } from 'react-router-dom';
 
@@ -25,6 +26,9 @@ export function App() {
           </li>
           <li>
             <Link to="/page-2">Page 2</Link>
+          </li>
+          <li>
+            <Button />
           </li>
         </ul>
       </div>
